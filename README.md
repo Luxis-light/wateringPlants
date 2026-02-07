@@ -8,7 +8,7 @@ Die Feuchtigkeit der Erde sowie Raumtemperatur und Luftfeuchtigkeit werden an **
 
 ## Benötigte Hardware
 
-- [] 1 x **ESP32** (stand jetzt werde ich nur einen verwenden für alle Pflanzen)
+- [ ] 1 x **ESP32** (stand jetzt werde ich nur einen verwenden für alle Pflanzen)
 - [ ] 1 x **Raspberry Pi** (Darauf läuft Node-RED und InfluxDB. Man kann das auch auf einem "normalen" PC, aber der muss im Dauerbetrieb sein, um die Datenbank aufrechtzuerhalten)
 - [ ] 1 x **DHT22** (DHT22 ist der Beste)
 - [ ] 2 x **Kapazitiver Bodenfeuchtigkeitssensor**
