@@ -16,6 +16,7 @@ Die Feuchtigkeit der Erde sowie Raumtemperatur und Luftfeuchtigkeit werden an **
 - [ ] 2 x **Relaismodul**
 - [ ] 2 x **2 Meter Schlauch**
 - [ ] ca. 10 x **Jumper Wires**
+- [ ] 1 x **[Akku](https://amzn.eu/d/0cpPDY9M)**
 
 ## Verwendete Technologien
 
@@ -36,4 +37,8 @@ Auf dem Raspberry Pi läuft Node-RED und dieser versendet die Daten einmal auf I
 ## Genauer Ablauf 
 To be continued
 
+
+## Fehler aus denen ich gelernt habe 
+Beim Verlöten der Pumpe mit dem Akku habe ich anschließend die Kabel am Relaismodul angebracht. Dabei waren Batterien im Akkufach, von denen eine umgekehrt eingesetzt war. Was passiert ist: Zum einen wurde die Batterie 'rückwärts' geladen und fing an, Rauch zu bilden. Zum anderen entwickelte sich Hitze, welche das Gehäuse des Akkupacks geschmolzen hat.
+Moral der Geschichte: **Nicht verkablen und löten wenn Strom angeschlossen ist !**
 
